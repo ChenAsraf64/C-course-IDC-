@@ -22,18 +22,3 @@ This project is a **console-based C# implementation** of the classic game **4 in
 1. Clone the repository: `git clone https://github.com/ChenAsraf64/C-sharp-course-IDC.git` Open the project in **Visual Studio**. Build and run the **4 in a Row - Console** project. Choose between **Single-Player** (against AI) or **Two-Player** mode. Players take turns entering a column number to drop their piece. The game announces the winner once four pieces align in a row.
 
 
-## 📸 Example Output
-Select game mode:
-1. Single-player (vs AI)
-2. Two-player
-
- 1  2  3  4  5  6  7
----------------------
- .  .  .  .  .  .  . 
- .  .  .  .  .  .  . 
- .  .  .  .  .  .  . 
- .  .  .  X  .  .  . 
- .  .  O  X  .  .  . 
- .  O  O  X  .  .  . 
-
-Player X, choose a column: 4
